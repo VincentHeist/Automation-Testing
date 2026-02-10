@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","987","Q1: Login with locked_out_user and verify error","","2026-02-09","passed","2026-02-09","","lockedUser.spec.js","",""
+"","3168","Q2: Standard user full purchase flow","","2026-02-09","passed","2026-02-09","","standardUser.spec.js","",""
+"","13156","Q3: Performance user purchase with Z-A sort","","2026-02-09","passed","2026-02-09","","performanceUser.spec.js","",""
+"","1412","get started link","","2026-02-09","passed","2026-02-09","","example.spec.js","",""
+"","4112","has title","","2026-02-09","passed","2026-02-09","","example.spec.js","",""
